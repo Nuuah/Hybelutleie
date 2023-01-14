@@ -9,6 +9,7 @@ Hva jeg lærte
  - PHP
  - HTML
  - CSS
- - Lage database
+ - SQL
+ - Repetisjon av å lage database
  - Oppkobling til database
- - Repetisjon av database moduler.
+ - Repetisjon av database moduler
