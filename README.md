@@ -1,8 +1,8 @@
 Prosjektet
 ---
-Webapplikasjon for utleie av hybler for studenter. Dette er et prosjekt som ikke ble helt ferdig igjennom semesteret.
+Webapplikasjon for utleie av hybler for studenter.
 
-Webapplikasjonen er for at du enten kan ha en bruker for å leie ut hybler, kollektiv, eller leilighet. Eller for å ha en student bruker hvor du ser etter hybler, kollektiv, eller leilighet.
+Webapplikasjonen er for at du enten kan ha en bruker for å leie ut hyblel, kollektiv, eller leilighet. Eller for å ha en student bruker hvor du ser etter hyblel, kollektiv, eller leilighet.
 
 Hva jeg lærte
 ---
